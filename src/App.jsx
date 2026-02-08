@@ -1,5 +1,5 @@
 import { Route,Routes } from "react-router";
-import Home from "./Page/Home";
+import Home from "./page/Home";
 import PublicLayout from "./layout/PublicLayout";
 import "slick-carousel/slick/slick.css";
 import "slick-carousel/slick/slick-theme.css";
