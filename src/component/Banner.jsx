@@ -11,7 +11,7 @@ export default function Bannerslider() {
   const settings = {
     dots: true,
     infinite: true,
-    speed: 500,
+    speed: 100,
     slidesToShow: 1,
     slidesToScroll: 1,
     autoplay: true,

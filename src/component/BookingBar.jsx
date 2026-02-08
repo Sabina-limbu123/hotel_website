@@ -29,7 +29,7 @@ export default function BookingBar() {
           <div className="flex items-center border rounded-lg px-4 py-3 w-full md:w-48">
             <div className="flex-1">
               <p className="text-xs text-gray-400">Check-In</p>
-              <p className="text-sm font-medium">2025/02/05</p>
+              
             </div>
             <span className="text-orange-500 text-lg">📅</span>
           </div>
@@ -38,7 +38,7 @@ export default function BookingBar() {
           <div className="flex items-center border rounded-lg px-4 py-3 w-full md:w-48 bg-gray-100">
             <div className="flex-1">
               <p className="text-xs text-gray-400">Check-Out</p>
-              <p className="text-sm font-medium">2025/02/08</p>
+            
             </div>
             <span className="text-orange-500 text-lg">📅</span>
           </div>
